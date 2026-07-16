@@ -17,8 +17,6 @@ By day I am a Partner PM Director at Microsoft, leading the data, knowledge, and
 
 **[Launch Control](https://github.com/jamesoleinik/launch-control)** is a complete launch-management system built on Dataverse. Data model, three kinds of agents (declarative, autonomous, and code-first), a generative Power App, and agentic administration. Built and explained as a 12-episode build-in-public series.
 
-**[Dataverse Field Guide](https://github.com/jamesoleinik/dataverse-field-guide)** is the field notes I wish every team had before modeling data on Dataverse. Modeling, security, relationships, auditing, and the Web API, with runnable examples and the tradeoffs that bite you later.
-
 ## What I believe about enterprise agents
 
 - **AI that works, not just AI that answers.** An agent earns its keep by doing real work, not returning a confident paragraph.
@@ -29,7 +27,7 @@ By day I am a Partner PM Director at Microsoft, leading the data, knowledge, and
 
 ## How this grows
 
-I ship something most weeks. Repos join the map when they earn their place, not before. If you work on Dataverse, Copilot Studio, MCP, or enterprise agents, follow along.
+I ship something most weeks. Repos join the map when they earn their place, not before. Next up: a Dataverse coding-agent field guide. If you work on Dataverse, Copilot Studio, MCP, or enterprise agents, follow along.
 
 ## Reach me
 
