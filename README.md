@@ -2,7 +2,7 @@
 
 # James Oleinik
 
-**I help build the enterprise platform for business agents. Here I build the same ideas in the open.**
+**I help build the platform that lets business agents understand your business, not just access your data. Here I build the same ideas in the open.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-james--oleinik-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-oleinik/)
 [![Follow on GitHub](https://img.shields.io/github/followers/jamesoleinik?label=Follow&style=social)](https://github.com/jamesoleinik)
@@ -11,7 +11,7 @@
 
 ---
 
-By day I am a Partner PM Director at Microsoft, leading the data, knowledge, and platform foundations for business agents: Dataverse, Copilot Studio, the Model Context Protocol, and Agent 365. By night I build the same ideas in the open: small, runnable systems that show how enterprise agents actually get grounded in business data, act with guardrails, and ship with evidence. Everything here is built outside the day job.
+By day I am a Partner Director of Product Management at Microsoft, leading the data, knowledge, and platform foundations for business agents: Dataverse, Copilot Studio, the Model Context Protocol, and Agent 365. By night I build the same ideas in the open: small, runnable systems that show how enterprise agents actually get grounded in business data, act with guardrails, and ship with evidence. Everything here is built outside the day job.
 
 ## Start here
 
@@ -19,17 +19,18 @@ By day I am a Partner PM Director at Microsoft, leading the data, knowledge, and
 
 ## What I believe about enterprise agents
 
-- **AI that works, not just AI that answers.** An agent earns its keep by doing real work, not returning a confident paragraph.
-- **Grounding is more than retrieval.** Agents get trustworthy from business context and semantics, not from a bigger model.
-- **Guardrails are the product.** An enterprise agent needs identity, scoped access, an audit trail, and human oversight.
+- **AI that understands your business, not just your data.** For years agents could reach your records. The shift now is understanding what they mean.
+- **Grounding beats cleverness.** An agent that cites the record beats one that sounds confident.
+- **Guardrails belong in the platform, not the prompt.** Identity, scoped access, and audit are properties of the data, not the agent.
 - **The moat is the intelligence, not the model.** Skills, semantics, and evaluations are what make agents good, and they compound.
-- **Ship with evidence.** "Are we ready to launch?" gets answered with tested scenarios and telemetry, not a gut call.
+- **Assistive by design.** A human on every consequential write.
 
 ## How this grows
 
-I ship something most weeks. Repos join the map when they earn their place, not before. Next up: a Dataverse coding-agent field guide. If you work on Dataverse, Copilot Studio, MCP, or enterprise agents, follow along.
+I ship something most weeks. Repos join the map when they earn their place, not before. Next up: Dataverse Tools, doing real Dataverse work by directing a coding agent. If you work on Dataverse, Copilot Studio, MCP, or enterprise agents, follow along.
 
 ## Reach me
 
 - **LinkedIn:** [james-oleinik](https://www.linkedin.com/in/james-oleinik/)
 - **GitHub:** [@jamesoleinik](https://github.com/jamesoleinik)
+
