@@ -12,13 +12,16 @@
 
 ---
 
-I'm a Partner Director of Product Management at Microsoft, building the data, knowledge, and platform foundations for business agents. Here I build the same ideas in the open: small, runnable systems that show how agents get grounded in real business data, act with the right guardrails, and operate real business processes. Some of it is closer to home: personal productivity tooling I build to automate my own workday. The through-line is coding agents and Dataverse. Everything here is built outside the day job.
+I build business agents in the open: small, runnable systems you can clone and run, not slideware. Each repo is a working artifact, and together they trace one through-line, coding agents on Microsoft Dataverse that get grounded in real business data, act with the right guardrails, and operate real processes end to end.
 
-## Start here
+Day job: Partner Director of Product Management at Microsoft, building the data, knowledge, and platform foundations for business agents. Everything here is built outside that. Some of it is closer to home: personal productivity tooling I build to automate my own workday.
 
-**[Launch Control](https://github.com/jamesoleinik/launch-control)** is a complete launch-management system built on Dataverse: one data model, three kinds of agents (declarative, autonomous, and code-first), a generative Power App, and agentic administration. Built and explained as a 15-episode, build-in-public series.
+## What's here
 
-**[Dataverse Tools](https://github.com/jamesoleinik/dataverse-tools)** reimagines the everyday jobs of a Dataverse practitioner (modeling, querying, bulk data, solutions, security, and diagnostics) as coding-agent tools that read first and show a dry run before any change. Ten tools, each checked against a live environment.
+| Project | What it is | Start here |
+|---|---|---|
+| **Launch Control** | A launch-management system on Dataverse: one data model, three kinds of agents (declarative, autonomous, and code-first), a generative Power App, and agentic administration. Built as a build-in-public series. | [launch-control](https://github.com/jamesoleinik/launch-control) |
+| **Dataverse Tools** | The everyday jobs of a Dataverse practitioner (modeling, querying, bulk data, solutions, security, diagnostics) reimagined as coding-agent tools that read first and show a dry run before any change. Ten tools, each validated live. | [dataverse-tools](https://github.com/jamesoleinik/dataverse-tools) |
 
 More is on the way, added when it earns its place.
 
