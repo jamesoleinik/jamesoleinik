@@ -18,6 +18,8 @@ I'm a Partner Director of Product Management at Microsoft, building the data, kn
 
 **[Launch Control](https://github.com/jamesoleinik/launch-control)** is a complete launch-management system built on Dataverse: one data model, three kinds of agents (declarative, autonomous, and code-first), a generative Power App, and agentic administration. Built and explained as a 15-episode, build-in-public series.
 
+**[Dataverse Tools](https://github.com/jamesoleinik/dataverse-tools)** reimagines the everyday jobs of a Dataverse practitioner (modeling, querying, bulk data, solutions, security, and diagnostics) as coding-agent tools that read first and show a dry run before any change. Ten tools, each checked against a live environment.
+
 More is on the way, added when it earns its place.
 
 ## What I keep coming back to
