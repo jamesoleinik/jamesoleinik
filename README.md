@@ -22,6 +22,7 @@ Day job: Partner Director of Product Management at Microsoft, building the data,
 |---|---|---|
 | **Launch Control** | A launch-management system on Dataverse: one data model, three kinds of agents (declarative, autonomous, and code-first), a generative Power App, and agentic administration. Built as a build-in-public series. | [launch-control](https://github.com/jamesoleinik/launch-control) |
 | **Dataverse Tools** | The everyday jobs of a Dataverse practitioner (modeling, querying, bulk data, solutions, security, diagnostics) reimagined as coding-agent tools that read first and show a dry run before any change. Ten tools, each validated live. | [dataverse-tools](https://github.com/jamesoleinik/dataverse-tools) |
+| **Skill Scout** | Point it at your AI coding-agent session logs and it finds the workflows you repeat by hand, scores them against a transparent rubric, and hands back gated proposals for which ones to turn into a skill. Read-only over your history, privacy-first, validated on fixtures. | [skill-scout](https://github.com/jamesoleinik/skill-scout) |
 
 More is on the way, added when it earns its place.
 
